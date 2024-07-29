@@ -53,6 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <br><br>
         <input type="submit" value="Cadastrar">
     </form>
+    <h1>novo recurso</h1>
 </body>
 </html>
 
